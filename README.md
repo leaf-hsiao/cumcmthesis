@@ -13,6 +13,7 @@ CUMCU LaTeX Template
 - UTF-8 编码
 - 使用 XeLaTeX编译
 - 提供了`clean.bat`和`thesis.bat`两个脚本分别用于临时文件和输出pdf
+- 基于2015年的格式要求
 
 ## Acknowledgements
 
@@ -25,6 +26,4 @@ CUMCU LaTeX Template
 [mcmthesis](https://github.com/Liam0205/mcmthesis)
 
 [thuthesis](https://github.com/xueruini/thuthesis)
-
-
 
