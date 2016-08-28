@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: plain.bst
+Database file #1: reference.bib
+Warning--there's a number but no volume in Yao1993
+You've used 16 entries,
+            2118 wiz_defined-function locations,
+            598 strings with 5936 characters,
+and the built_in function-call counts, 4574 in all, are:
+= -- 457
+> -- 151
+< -- 6
++ -- 65
+- -- 46
+* -- 273
+:= -- 762
+add.period$ -- 51
+call.type$ -- 16
+change.case$ -- 64
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 217
+empty$ -- 407
+format.name$ -- 46
+if$ -- 984
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 24
+newline$ -- 83
+num.names$ -- 32
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 55
+quote$ -- 0
+skip$ -- 128
+stack$ -- 0
+substring$ -- 226
+swap$ -- 46
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 46
+warning$ -- 1
+while$ -- 47
+width$ -- 18
+write$ -- 188
+(There was 1 warning)

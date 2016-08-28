@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{agrawal2007resolving}
+A.~Agrawal and R.~Raskar.
+\newblock Resolving objects at higher resolution from a single motion-blurred
+  image.
+\newblock In {\em Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE
+  Conference on}, pages 1--8. IEEE, 2007.
+
+\bibitem{BEZOS02}
+J.~Bezos.
+\newblock {\em The titlesec and titletoc Packages}.
+\newblock University of SomeName, Cityname, 2nd edition, March 2002.
+
+\bibitem{TEXGURU99}
+{\TeX}Guru.
+\newblock {\em {\LaTeX 2$\varepsilon$}用户手册}.
+\newblock 某某大学出版社, 天津, 1999.
+
+\bibitem{WANG00}
+{K. Reckdahl~原著, 王磊~译}.
+\newblock {\em Using Import graphics in {\LaTeX 2$\varepsilon$}, {\LaTeX
+  2$\varepsilon$}插图指南}.
+\newblock 某某大学出版社, 天津, 2000.
+
+\bibitem{knuth86e}
+Donald~E. Knuth.
+\newblock {\em Computer Modern Typefaces}, volume~E of {\em Computers and
+  Typesetting}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+
+\bibitem{knuth86a}
+Donald~E. Knuth.
+\newblock {\em The {TeX}book}, volume~A of {\em Computers and Typesetting}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+
+\bibitem{lamport85a}
+Leslie Lamport.
+\newblock {\em {LaTeX} --- A Document Preparation System: User's Guide and
+  Reference Manual}.
+\newblock Addison-Wesley, Reading, Massachusetts, 2nd edition, 1985.
+
+\bibitem{McDonnell1994}
+J.~R. McDonnell and D.~Wagen.
+\newblock Evolving recurrent perceptions for time-{S}eries modeling.
+\newblock {\em IEEE Trans. on Neural Networks}, 5(1):24--38, 1994.
+
+\bibitem{OOSTRUM01}
+{P. Oostrum, ifuleyou@bbs.ctex.org~译}.
+\newblock {\em {\LaTeX}下的页面布局}.
+\newblock 某某大学出版社, 天津, August 2001.
+
+\bibitem{SHELL02}
+Michael Shell.
+\newblock How to use the {IEEEtran} {\LaTeX} class.
+\newblock {\em Journal of {\LaTeX} Class Files}, 1(11):10--20, November 2002.
+
+\bibitem{Niwa1990}
+S.Niwa, M.~Suzuki, and K.~Kimura.
+\newblock Electrical shock absorber for docking system space.
+\newblock In {\em IEEE International Workshop on Intelligent Motion Control},
+  pages 825--830, Istenbul, 1990. Bogazici University.
+
+\bibitem{Yao1993}
+X.~Yao.
+\newblock Evolutionary artifitial neural networks.
+\newblock {\em J. Of Neural Systems}, (4):203--222, 1993.
+
+\bibitem{zhang2010tree}
+J.~Zhang, X.~Li, J.~Chen, and Z.~Qian.
+\newblock A tree parent storage based on hashtable for xml construction.
+\newblock In {\em Communication Systems, Networks and Applications (ICCSNA),
+  2010 Second International Conference on}, volume~1, pages 325--328. IEEE,
+  2010.
+
+\bibitem{Chen1992}
+宋乐.
+\newblock {\em 异源图像融合及其评价方法的研究}.
+\newblock 博士学位论文, 天津大学, 天津, 2008.
+
+\bibitem{huwei}
+{胡伟}.
+\newblock {\em \LaTeXe{}~完全学习手册}.
+\newblock 清华大学出版社,~书号:~978-7-302-24159-1, 北京, 2011.
+
+\bibitem{deng:01a}
+{邓建松,~彭冉冉,~陈长松}.
+\newblock {\em \LaTeXe{}~科技排版指南}.
+\newblock 科学出版社,~书号:~7-03-009239-2/TP.1516, 北京, 2001.
+
+\end{thebibliography}
